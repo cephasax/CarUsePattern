@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarUsePattern</string>
+    <string name="btnSearch">Search</string>
+    <string name="editTxtVehicleId">Vehicle Identification</string>
+    <string name="textClass">Class</string>
+    <string name="textLast">Last Classification</string>
+</resources>
