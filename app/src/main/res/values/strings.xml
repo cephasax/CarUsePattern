@@ -4,4 +4,7 @@
     <string name="editTxtVehicleId">Vehicle Identification</string>
     <string name="textClass">Class</string>
     <string name="textLast">Last Classification</string>
+    <string name="dataClass">Data</string>
+    <string name="textClassDesc">Description</string>
+    <string name="imgDesc">Class description</string>
 </resources>
